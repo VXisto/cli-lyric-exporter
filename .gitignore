@@ -21,5 +21,11 @@
 go.work
 go.work.sum
 
+*.html
+*.pdf
+*.txt
+lyrics/
+
+
 # env file
 .env
